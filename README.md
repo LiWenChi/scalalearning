@@ -1,2 +1,2 @@
-# scalaproject
+# scalalearning
 一些关于scala的实践
