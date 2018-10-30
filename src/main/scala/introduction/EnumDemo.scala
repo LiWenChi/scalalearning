@@ -1,3 +1,5 @@
+package introduction
+
 /*
   scala 枚举
   枚举：scala不支持enum关键字，通过继承Enumeration类实现枚举

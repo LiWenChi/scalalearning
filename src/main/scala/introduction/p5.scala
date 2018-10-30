@@ -1,3 +1,5 @@
+package introduction
+
 /**
   * Scala常用方法大全
   */

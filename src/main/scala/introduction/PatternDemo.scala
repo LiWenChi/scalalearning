@@ -1,3 +1,5 @@
+package introduction
+
 /**
   * 模式匹配
   * 在我们学过的java中switch case 只能对数值进行匹配
